@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2013\Projects\MS-MQ selective\MS-MQ selective\bin\Debug\MS-MQ selective.exe.config
+\\psf\home\documents\visual studio 2013\Projects\MS-MQ selective\MS-MQ selective\bin\Debug\MS-MQ selective.exe
+\\psf\home\documents\visual studio 2013\Projects\MS-MQ selective\MS-MQ selective\bin\Debug\MS-MQ selective.pdb
+\\psf\home\documents\visual studio 2013\Projects\MS-MQ selective\MS-MQ selective\obj\Debug\MS-MQ selective.exe
+\\psf\home\documents\visual studio 2013\Projects\MS-MQ selective\MS-MQ selective\obj\Debug\MS-MQ selective.pdb
